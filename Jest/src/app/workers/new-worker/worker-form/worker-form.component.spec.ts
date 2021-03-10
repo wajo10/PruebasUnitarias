@@ -1,6 +1,6 @@
 import { WorkerFormComponent } from './worker-form.component';
 import {WorkerModel} from '../../worker.model';
-
+// Código adaptado desde https://www.youtube.com/watch?v=PdVerlfmO6M&list=PLtlqfp1XEW4hXv8C2-gJVdLTzTVzihoH8&index=1&ab_channel=TheRyanSmee
 describe( 'WorkerFormComponent', () => { // Probar el componente
   let fixture: WorkerFormComponent; // Clase a probar
   // Son mock porque no interesa realmente el valor
